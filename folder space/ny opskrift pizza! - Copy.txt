@@ -1,6 +1,12 @@
 
 
 
+ Git et versionsstyringsprogram.
+- Github en online brugerflade til git. 
+- Sourcetree en offline brugerflade til git. Der findes også andre.
+- File tree - De filer jeg kan se. 
+- Repository - File tree plus backups og tidligere versioner af file tree.
+- Commit - snapshot of a particular state of a file tree. One of the versions of your filetree. Your repository contains multiple versions of the file tree historic, multiple commits. En version af koden som er gemt. Et savepoint af hele filetree (selvom man siger "this goes into the commit", men det er underforstået at hele filtræet indgår). 
 Her is a change.
 
 
